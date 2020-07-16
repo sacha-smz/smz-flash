@@ -1,0 +1,24 @@
+{
+  "name": "smz-flash",
+  "version": "1.0.0",
+  "description": "Flash data for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacha-smz/smz-flash.git"
+  },
+  "keywords": [
+    "flash",
+    "express",
+    "session"
+  ],
+  "author": "Sacha-Maximilien Zacaropoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacha-smz/smz-flash/issues"
+  },
+  "homepage": "https://github.com/sacha-smz/smz-flash#readme"
+}
